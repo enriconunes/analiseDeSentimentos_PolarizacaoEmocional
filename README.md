@@ -14,4 +14,4 @@ Esta aplicação foi desenvolvida no objetivo de analisar a Polarização Emocio
 9º. Demonstração do resultado final em forma de gráfico com a biblioteca matplotlib. <br/>
 <br/>
 Observações:<br/>
-1º. O diretório possui dois programas, sendo eles: projetoExplicativo.ipynb e blocoUnico.py. Ambos apresentam o mesmo código, entretanto o 'projetoExplicativo.ipynb' é dividido em blocos de códigos com a explicação e exemplificação de cada bloco para facilitar o entendimento de cada passo implementado.
+1º. O diretório possui dois programas, sendo eles: projetoExplicativo.ipynb e blocoUnico.py. Ambos apresentam o mesmo código, entretanto, o 'projetoExplicativo.ipynb' é dividido em blocos de códigos com a explicação e exemplificação de cada bloco para facilitar o entendimento de cada passo implementado.
