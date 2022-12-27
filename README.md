@@ -12,6 +12,6 @@ Esta aplicação foi desenvolvida no objetivo de analisar a Polarização Emocio
 7º. Obtenção da pontuação de cada token (positivo, negativo e objetividade) com a biblioteca SentiWordNet. <br/>
 8º. Cálculo de todas as pontuações recolhidas: Média das pontuações positivas - média das pontuações negativas. <br/>
 9º. Demonstração do resultado final em forma de gráfico com a biblioteca matplotlib. <br/>
-<br/><br/>
+<br/>
 Observações:<br/>
 1º. O diretório possui dois programas, sendo eles: projetoExplicativo.ipynb e blocoUnico.py. Ambos apresentam o mesmo código, entretanto o 'projetoExplicativo.ipynb' é dividido em blocos de códigos com a explicação e exemplificação de cada bloco para facilitar o entendimento de cada passo implementado.
